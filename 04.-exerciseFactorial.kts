@@ -16,7 +16,7 @@ fun factorialNumero(number:Int):Int{
         
     }
 }
-//println(factorialNumero(4))
+println(factorialNumero(4))
 
 fun restaData(number:Int):Int{
     return if(number > 0){
