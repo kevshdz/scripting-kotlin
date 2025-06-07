@@ -22,7 +22,6 @@ fun restaData(number:Int):Int{
     return if(number > 0){
         println(number)
         restaData(number - 1)
-        
     }else{
         6
     }
